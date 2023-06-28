@@ -236,12 +236,12 @@ button {
     width: 100%;
     float: left;
     /*background-color: #8eb50b;*/
-    background-color: #000000;
+    background-color:  #ffffff;
     height: auto;
 }
 
 .bg-light {
-    background-color: #000000!important;
+    background-color:  #ffffff!important;
 }
 
 .sidenav {
